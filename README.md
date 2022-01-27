@@ -3,15 +3,16 @@
 <br />
 <br />
 
-Hi, I'm Themas, I teach front end stack at voactional high school 🚀 from Indonesia, currently, I'm teacher @ SMK Yadika Soreang, Freelancer (You can reach me via email :D ) 👨🏽‍💻, Beside's programming, I enjoy gaming and spanding time with my little family
+Hi, I'm Themas, I teach Frontend Web Development at voactional high school 🚀 from Indonesia, currently, I'm a teacher @ SMK Yadika Soreang, Freelancer (You can reach me via email :D ) 👨🏽‍💻, Beside's programming, I enjoy gaming and spanding time with my little family
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working @ SMK Yadika Soreang
-- 🌱 I’m currently learning Node js and restfullAPI ; 
+- 🌱 I’m currently learning React js and node js ; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ i hope i can. 
+- ⚡️ ocasionally tinkering IOT and Automation (arduino, esp8266).
+- :sparkles: full time dad :bulb:
 - 📫 How to reach me: themasfebrianto13@gmail.com;
 - 📝[Resume]
 
