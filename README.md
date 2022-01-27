@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Themas, I teach Frontend Web Development at voactional high school 🚀 from Indonesia, currently, I'm a teacher @ SMK Yadika Soreang, Freelancer (You can reach me via email :D ) 👨🏽‍💻, Beside's programming, I enjoy gaming and spanding time with my little family
+Hi, I'm Themas, I teach Frontend Web Development at vocational high school 🚀 from Indonesia, currently, I'm a teacher @ SMK Yadika Soreang, Freelancer (You can reach me via email :D ) 👨🏽‍💻, Beside's programming, I enjoy gaming and spanding time with my little family
   
 **Talking about Personal Stuffs:**
 
